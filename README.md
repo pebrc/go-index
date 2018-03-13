@@ -1,1 +1,3 @@
 # go-index
+
+... indexes things
